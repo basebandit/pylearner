@@ -2,7 +2,7 @@
 ##Building Skills In Python
 Includes practice source code with sample applications at each stage of learning.
 ##Book of choice:
-- [Building skills in python - Steven F. Lott](http://www.goodreads.com/book/show/10035026-building-skills-in-python "An excellent book for 
+- [Dive into python - Mark Pilgrim](http://www.goodreads.com/book/show/24038.Dive_Into_Python "An excellent book for 
 python newbies and experts")
 
 ##Inspiration
